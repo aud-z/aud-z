@@ -1,6 +1,8 @@
 ### Hi there! 
 
-**My name is Audrey, and I am currently a masters student in Data Analytics at Carnegie Mellon University.** As a public policy nerd, I am fascinated with the role that data play in addressing society's complex solutions. Prior to coming to grad school, I had the opportunity to work with the federal government to implement some very exciting Medicare innovation pilot programs. Part of my responsibilities included analyzing Medicare claims data to measure key performance indicators and identify strategies for maximizing program impact, and it was amazing to see data insights get translated into concrete policy action. I am excited to continue my journey into the world of data. I plan to strengthen my technical skills so that I can bring a robust set of analytical capabilities, along with my easygoing personality and relentless intellectual curiosity, to wherever I may find myself after grad school. 
+**I am Audrey, currently a masters student in Data Analytics at Carnegie Mellon University.** 
+
+As a public policy nerd, I am fascinated with the role that data play in addressing society's complex solutions. I had the opportunity to work with the federal government to implement some very exciting Medicare innovation pilot programs, and part of my responsibilities included analyzing Medicare claims data to measure key performance indicators and identify strategies for maximizing program impact. It was amazing to see data insights get translated into concrete policy action. Eager to learn more, I am taking these next two years to polish my technical skills so that I can bring a robust set of analytical capabilities, along with my quirky humor and relentless intellectual curiosity, to wherever my next adventure may be. 
 
 🔭 What I know and am continuing to improve upon: 
 - Basic OOP in Java
