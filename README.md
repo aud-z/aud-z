@@ -15,8 +15,8 @@
 - Database management and design
 - Applied econometrics and statistical methods 
 
-⚡ Fun fact:
-- avid solo traveler 
+⚡ Fun facts:
+- avid (solo) traveler
 - novice Muay Thai enthusiast 
 - bookworm 
 
