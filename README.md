@@ -7,9 +7,9 @@ As a public policy nerd, I am fascinated with the role that data play in address
 📑 What I know and am continuing to improve upon: 
 - Basic OOP in Java
 - OOP and data anaysis in Python, including natural language processing and machine learning  
-- SQL for database 
+- SQL for database manipulation
 - Excel, Tableau for data analysis and visualization
-- R, STATA, SPSS for statistical analysis 
+- R, STATA, SPSS for statistical/econometric analysis 
 
 📝 What I'm learning in class:
 - AI applications in data science (search, unsupervised/reinforcement learning, deep learning, computer vision)
