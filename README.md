@@ -24,7 +24,7 @@ As a public policy nerd, I am fascinated with the role that data play in address
 
 ⚡ Fun facts:
 - avid (solo) traveler
-- Muay Thai enthusiast 
+- Muay Thai trainee 
 - bookworm 
 
 Find me on [LinkedIn](www.linkedin.com/in/audrey-zhang)
