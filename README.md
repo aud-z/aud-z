@@ -2,7 +2,7 @@
 
 **I am Audrey - a music lover, creative problem-solver, and hot sauce enthusiast. Currently a Masters student in Data Analytics at Carnegie Mellon University.** 
 
-I am fascinated with the role that data play in addressing society's complex solutions. Prior to graduate school, I had the opportunity to work with the federal government to implement some very exciting Medicare innovation pilot programs, and part of my responsibilities included analyzing Medicare claims data to measure key indicators and identifying strategies for improvement. It was amazing to see data insights get translated into concrete policy action. Eager to learn more, I am taking these next two years to polish my technical skills so that I can bring a robust set of analytical capabilities, along with my humor and relentless intellectual curiosity, to wherever my next adventure may be. 
+I am fascinated with the role that data play in addressing society's complex solutions. Prior to graduate school, I had the opportunity to work with the federal government to implement some very exciting Medicare innovation pilot programs, and part of my responsibilities included analyzing Medicare claims data to construct key indicators for program impact, and synthesizing the results to create strategies for improvement. It was amazing to see data insights get translated into concrete policy action. Eager to learn more, I am taking these next two years to polish my technical skills so that I can bring a robust set of analytical capabilities, along with my humor and relentless intellectual curiosity, to wherever my next adventure may be. 
 
 📑 What I know and am continuing to improve upon: 
 - Basic OOP in Java
