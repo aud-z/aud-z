@@ -5,11 +5,11 @@
 I am fascinated with the role that data play in addressing society's complex solutions. Prior to graduate school, I had the opportunity to work with the federal government to implement some very exciting Medicare innovation pilot programs, and part of my responsibilities included analyzing Medicare claims data to construct key indicators for program impact, and synthesizing the results to create strategies for improvement. It was amazing to see data insights get translated into concrete policy action. Eager to learn more, I am taking these next two years to polish my technical skills so that I can bring a robust set of analytical capabilities, along with my humor and relentless intellectual curiosity, to wherever my next adventure may be. 
 
 📑 What I know and am continuing to improve upon: 
-- Basic OOP in Java
 - OOP and data anaysis in Python, including natural language processing and machine learning  
 - SQL for database manipulation
 - Excel, Tableau for data analysis and visualization
 - R, STATA, SPSS for statistical/econometric analysis 
+- Basic OOP in Java
 
 📝 What I'm learning in class:
 - AI applications in data science (search, unsupervised/reinforcement learning, deep learning, computer vision)
@@ -18,8 +18,7 @@ I am fascinated with the role that data play in addressing society's complex sol
 - Applied econometrics and statistical methods 
 
 🌱 Ongoing projects:
-- Building web applications using Django 
-- Using AI to create a digital movement 'fingerprint' for individuals using smartphone/smartwatch tracking data
+- Using AI to create a motion 'fingerprint' (i.e. mapping walking patterns to individuals) using smartphone/smartwatch tracking data
 
 ⚡ Fun facts:
 - avid (solo) traveler
