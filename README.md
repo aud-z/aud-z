@@ -8,7 +8,7 @@ I am fascinated with the role that data play in addressing society's complex sol
 - NLP, ML, neural networks/deep learning using Python
 - Mathematical foundations of ML and deep learning
 - Optimization & data science for business and products
-- statistical & econometric analysis using R, SPSS, and STATA
+- Statistical & econometric analysis using R, SPSS, and STATA
 
 📝 What I'm learning in class:
 - NoSQL database management 
